@@ -1,0 +1,13 @@
+{
+  "name": "todo-ameliore-frontend",
+  "version": "1.0.0",
+  "description": "Frontend UI for the todo amelioré project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs"
+}
